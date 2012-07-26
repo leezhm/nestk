@@ -17,6 +17,15 @@
  * Author: Nicolas Burrus <nicolas.burrus@uc3m.es>, (C) 2010
  */
 
+
+//
+// Modified by leezhm@126.com on 26th July, 2012
+//
+#pragma warning (disable : 4150)
+//
+
+
+
 #ifndef   	NTK_UTILS_COMMON_H_
 # define   	NTK_UTILS_COMMON_H_
 

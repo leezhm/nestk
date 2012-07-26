@@ -1,3 +1,9 @@
+//
+// Modified by leezhm@126.com on 26th July, 2012
+//
+#pragma warning (disable : 4996)
+//
+
 #include "marker.h"
 #include <cstdio>
 using namespace cv;

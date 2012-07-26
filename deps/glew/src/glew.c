@@ -29,6 +29,12 @@
 ** THE POSSIBILITY OF SUCH DAMAGE.
 */
 
+//
+// Modified by leezhm@126.com on 26th July, 2012
+//
+#pragma warning (disable : 4273)
+//
+
 #include <GL/glew.h>
 #if defined(_WIN32)
 #  include <GL/wglew.h>

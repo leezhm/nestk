@@ -11,6 +11,12 @@
  * http://www.uco.es/investiga/grupos/ava/node/26 for details.
  */
 
+//
+// Modified by leezhm@126.com on 26th July, 2012
+//
+#pragma warning (disable : 4290)
+//
+
 #ifndef _Aruco_Marker_H
 #define _Aruco_Marker_H
 

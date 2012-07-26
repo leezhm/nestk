@@ -11,6 +11,12 @@
  * http://www.uco.es/investiga/grupos/ava/node/26 for details.
  */
 
+//
+// Modified by leezhm@126.com on 26th July, 2012
+//
+#pragma warning (disable : 4273)
+//
+
 #ifndef _Aruco_board_h
 #define _Aruco_board_h
 // #include <opencv/cv.h>
